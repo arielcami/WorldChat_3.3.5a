@@ -9,4 +9,4 @@ Ejemplo: #Hola necesito ayuda.
 
 ![WoWScrnShot_081722_201711](https://user-images.githubusercontent.com/71854140/185271722-452c80ba-bd01-41a3-a247-d419af95a103.jpg)
 
-El Script también colorea el nombre de quien habla de acuerdo a la clase, aparte de diferenciar entre la Horda y la Aliaza.
+El Script también colorea el nombre de quien habla de acuerdo a la clase, aparte de diferenciar entre la Horda y la Alianza.
